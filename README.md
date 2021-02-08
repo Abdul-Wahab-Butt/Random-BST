@@ -12,6 +12,7 @@ Following are the properties that every treap must hold:
 
 
 TIME COMPLEXITY 
+
 INSERT --> O(logn) 
 REMOVE --> O(logn) 
 SEARCH --> O(logn)
